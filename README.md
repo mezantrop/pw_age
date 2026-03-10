@@ -14,6 +14,7 @@ setage <username> <date>
 
 - Date is stored in the 5-th "GECOS" field of /etc/passwd and placed into the 5-th comma separated "Other info" section
 - format of the date is: `birth=<date>;` which potentially alows to store more `key=value` data in the field
+- **No** legal assessments about storing personal information in the GECOS were performed. Use at your own risk.
 - **No** age restrictions checks are performed
 - **No** date conversions are applied
 
